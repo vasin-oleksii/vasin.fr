@@ -191,19 +191,10 @@ const PrivacyPolicyPage = () => {
                 <li>
                   Our website:{" "}
                   <a
-                    href="https://vasin.fr"
+                    href="https://vasin-fr.vercel.app"
                     className="text-blue-600 hover:underline"
                   >
-                    https://vasin.fr
-                  </a>
-                </li>
-                <li>
-                  GitHub:{" "}
-                  <a
-                    href="https://github.com/vasin-fr"
-                    className="text-blue-600 hover:underline"
-                  >
-                    https://github.com/vasin-fr
+                    https://vasin-fr.vercel.app
                   </a>
                 </li>
               </ul>
