@@ -28,9 +28,10 @@ const PrivacyPolicyPage = () => {
             <section>
               <h2 className="text-2xl font-semibold mt-8 mb-4">Introduction</h2>
               <p>
-                Cyrillic Killer ("we", "our", or "us") is committed to
-                protecting your privacy. This Privacy Policy explains how our
-                browser extension handles information when you use it.
+                Cyrillic Killer (&quot;we&quot;, &quot;our&quot;, or
+                &quot;us&quot;) is committed to protecting your privacy. This
+                Privacy Policy explains how our browser extension handles
+                information when you use it.
               </p>
             </section>
 
@@ -52,8 +53,8 @@ const PrivacyPolicyPage = () => {
                 <li>
                   <strong>Site Exception List:</strong> A list of website
                   domains that you choose to exclude from Cyrillic character
-                  blurring. This list is stored locally in your browser's
-                  storage using Chrome's storage API.
+                  blurring. This list is stored locally in your browser&apos;s
+                  storage using Chrome&apos;s storage API.
                 </li>
                 <li>
                   <strong>Extension Preferences:</strong> Your personal settings
@@ -99,8 +100,8 @@ const PrivacyPolicyPage = () => {
                   list and preferences locally on your device.
                 </li>
                 <li>
-                  <strong>ActiveTab:</strong> Used to access the current tab's
-                  content to detect and blur Cyrillic characters.
+                  <strong>ActiveTab:</strong> Used to access the current
+                  tab&apos;s content to detect and blur Cyrillic characters.
                 </li>
               </ul>
               <p className="mt-4">
@@ -128,10 +129,10 @@ const PrivacyPolicyPage = () => {
               </h2>
               <p>
                 Since all data is stored locally on your device using your
-                browser's built-in storage mechanisms, your data is protected by
-                your browser's security features. We do not have access to your
-                stored data, and it cannot be accessed by external parties
-                through our extension.
+                browser&apos;s built-in storage mechanisms, your data is
+                protected by your browser&apos;s security features. We do not
+                have access to your stored data, and it cannot be accessed by
+                external parties through our extension.
               </p>
             </section>
 
@@ -146,19 +147,19 @@ const PrivacyPolicyPage = () => {
               <ul className="list-disc list-inside ml-4 space-y-2 mt-2">
                 <li>Uninstalling the extension from your browser</li>
                 <li>
-                  Clearing your browser's extension storage data through your
-                  browser's settings
+                  Clearing your browser&apos;s extension storage data through
+                  your browser&apos;s settings
                 </li>
                 <li>
                   Manually removing sites from the exception list through the
-                  extension's popup interface
+                  extension&apos;s popup interface
                 </li>
               </ul>
             </section>
 
             <section>
               <h2 className="text-2xl font-semibold mt-8 mb-4">
-                Children's Privacy
+                Children&apos;s Privacy
               </h2>
               <p>
                 Cyrillic Killer is not directed to children under the age of 13.
@@ -175,8 +176,8 @@ const PrivacyPolicyPage = () => {
               <p>
                 We may update this Privacy Policy from time to time. We will
                 notify you of any changes by posting the new Privacy Policy on
-                this page and updating the "Last Updated" date at the top of
-                this policy.
+                this page and updating the &quot;Last Updated&quot; date at the
+                top of this policy.
               </p>
             </section>
 
